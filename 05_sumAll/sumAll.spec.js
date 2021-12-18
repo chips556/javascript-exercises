@@ -1,4 +1,4 @@
-const sumAll = require('./sumAll')
+const {sumAll, rangeOfNum} = require('./sumAll')
 
 describe('sumAll', () => {
   test('sums numbers within the range', () => {
